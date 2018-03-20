@@ -2,7 +2,7 @@
 
 ## Objectives
 
-### PART 1
+### Part 1
 
 * Create a NodeJS project using npm init
 * Create a folder in your project called server
@@ -13,7 +13,7 @@
 * Write the array to a file in the root of the project called chirps.json
 * Add code to server.js that reads the file and outputs the chirps to the console
 
-### PART 2
+### Part 2
 
 * Install request-promise from npm and save it to your package.json
 * Create a JavaScript file in the root of your project called reddit.js
